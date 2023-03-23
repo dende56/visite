@@ -1,0 +1,6 @@
+1. Повторення
+2. Margin, padding
+3. Display
+4. Верстка
+5. Д/з https://nicepage.com/html-templates/preview/about-me-block-with-buttons-3848753?device=desktop
+Зверстати окремо
